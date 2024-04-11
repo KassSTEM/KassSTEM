@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kass</h1>
+<h1 align="center">Hi, I'm Kass 👋</h1>
 <h3 align="center">PhD Student in Engineering Education and PASE President at the University of Florida</h3>
+
+- 👨‍💻 All of my projects are available at [https://kassstem.github.io/](https://kassstem.github.io/)
 
 - 📫 How to reach me **kfernandez1@ufl.edu**
 
