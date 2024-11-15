@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h2 align="center">Hi 👋🏼! My name is Kass and my pronouns are they/them</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">I'm a Graduate Research Assistant at the University of Florida</h3>
 
