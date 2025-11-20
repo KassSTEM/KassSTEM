@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="justify">I'm currently in my third-year as an Engineering Education PhD student, working with Dr. Nancy Ruzycki. My research interests include peer mentorship in undergraduate student organizations as well as near-peer mentorship between K-12 students and undergraduate students in educational out-of-school time (OST) STEM programs. Outside of research, I am the President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida. I also serve as the Vice President of the Engineering Education Graduate Student Council and as the Strategy Consultant for the Gator Major-4-Major Mentorship Program.</h4>
+<h4 align="justify">I'm in the fourth-year of pursuing my PhD in Engineering Education, working under the supervision of Dr. Nancy Ruzycki. My dissertation research focuses on promoting STEM undergraduate student professional formation through mentoring experiences. Outside of research, I serve in various leadership and service roles. I am currently in my third and final term as President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida, which I founded in 2022. I also serve as the lead web developer for the Scientist Network for Advancing Policy (SNAP), a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public.</h4>
 
 ###
 
