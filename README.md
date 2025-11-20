@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="justify">I'm in the fourth-year of pursuing my PhD in Engineering Education, working under the supervision of Dr. Nancy Ruzycki. My dissertation research focuses on promoting STEM undergraduate student professional formation through mentoring experiences. Outside of research, I serve in various leadership and service roles. I am currently in my third and final term as President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida, which I founded in 2022. I also serve as the lead web developer for the Scientist Network for Advancing Policy (SNAP), a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public.</h4>
+<h4 align="justify">I'm a fourth-year Engineering Education PhD student, working with Dr. Nancy Ruzycki. My dissertation research focuses on promoting STEM undergraduate student professional formation through mentoring experiences. Outside of research, I serve in various leadership and service roles. I am currently in my third and final term as President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida, which I founded in 2022. I also serve as the lead web developer for the Scientist Network for Advancing Policy (SNAP).</h4>
 
 ###
 
@@ -21,9 +21,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kassSTEM&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kassSTEM&locale=en&mode=weekly&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
