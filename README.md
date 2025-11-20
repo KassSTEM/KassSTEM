@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="justify">I'm a fourth-year Engineering Education PhD student, working with Dr. Nancy Ruzycki. My dissertation research focuses on promoting STEM undergraduate student professional formation through mentoring experiences. Outside of research, I serve in various leadership and service roles. I am currently in my third and final term as President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida, which I founded in 2022. I also serve as the lead web developer for the Scientist Network for Advancing Policy (SNAP).</h4>
+<h4 align="justify">I'm a fourth-year Engineering Education PhD student, working with Dr. Nancy Ruzycki. My dissertation research focuses on promoting STEM undergraduate student professional formation through mentoring experiences. Outside of research, I am currently in my third and final term as President of the Policy Advocacy in Science and Engineering (PASE) student organization at the University of Florida, which I founded in 2022. I also serve as the lead web developer for the Scientist Network for Advancing Policy (SNAP).</h4>
 
 ###
 
