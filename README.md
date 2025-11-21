@@ -5,11 +5,11 @@
 <h3 align="center">I'm a Graduate Research Assistant at the University of Florida</h3>
 
 ###
-<div style="text-align: center;">
+<p align="center">
   
   <img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8wOG5tcjg4YWQ1YWRyOTd6YmdmcjdtOWIydmVnZ3BzY293emMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCBA6zkg9ih3JcGYEn/giphy.gif"  />
 
-</div>
+</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<div style="text-align: center;">
+<p align="center">
 
   <picture>
     <source
@@ -47,18 +47,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparente&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" />
   </picture>
 
-</div>
-
-###
-
-<div style="clear:both;">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake.svg" />
   </picture>
 
-</div>
+</p>
 
 ###
