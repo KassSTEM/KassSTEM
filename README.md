@@ -25,10 +25,10 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&include_all_commits=true&hide_rank=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&count_private=true&hide=stars%2Cprs" height="170" alt="stats graph" />
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=stars%2Cprs" height="170" alt="stats graph" />
   </picture>
 
   <picture>
@@ -41,10 +41,10 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=radical&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=radical&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_latte&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparente&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_latte&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparente&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" />
   </picture>
 
   <picture>
