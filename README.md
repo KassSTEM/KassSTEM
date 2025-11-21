@@ -25,7 +25,7 @@
 
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=kassSTEM&theme=radical&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://streak-stats.demolab.com?user=kassSTEM&theme=catppuccin-mocha&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: dark)" />
     <source
       srcset="https://streak-stats.demolab.com?user=kassSTEM&theme=catppuccin_latte&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://streak-stats.demolab.com?user=kassSTEM&theme=transparent&mode=weekly&border_radius=5" height="170" alt="streak graph" />
@@ -33,7 +33,7 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=radical&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_mocha&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" media="(prefers-color-scheme: dark)" />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_latte&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparente&layout=compact&langs_count=4&hide_border=false&custom_title=Top%20Languages" height="170" alt="languages graph" />
