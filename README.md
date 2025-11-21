@@ -33,10 +33,10 @@
 
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=radical&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://streak-stats.demolab.com?user=kassSTEM&theme=radical&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=catppuccin_latte&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://streak-stats.demolab.com?username=kassSTEM&theme=transparent&mode=weekly&border_radius=5" height="170" alt="streak graph" />
+      srcset="https://streak-stats.demolab.com?user=kassSTEM&theme=catppuccin_latte&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://streak-stats.demolab.com?user=kassSTEM&theme=transparent&mode=weekly&border_radius=5" height="170" alt="streak graph" />
   </picture>
 
   <picture>
