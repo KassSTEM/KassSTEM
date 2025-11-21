@@ -21,7 +21,7 @@
 
 ###
 
-<div>
+<div style="text-align: center;">
 
   <picture>
     <source
