@@ -25,10 +25,10 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&include_all_commits=true&hide=stars%2Cprs%2Cissues&hide_rank=true&count_private=true" height="170" alt="stats graph" media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&include_all_commits=true&hide=stars%2Cprs%2Cissues&hide_rank=true&count_private=true" height="170" alt="stats graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&include_all_commits=true&hide=stars%2Cprs%2Cissues&hide_rank=true&count_private=true" height="170" alt="stats graph" />
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&include_all_commits=true&hide_rank=true&count_private=true&hide=issues%2Cstars%2Cprs" height="170" alt="stats graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&count_private=true&hide=stars%2Cprs" height="170" alt="stats graph" />
   </picture>
 
   <picture>
