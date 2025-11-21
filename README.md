@@ -7,7 +7,7 @@
 ###
 <p align="center">
   
-  <img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8wOG5tcjg4YWQ1YWRyOTd6YmdmcjdtOWIydmVnZ3BzY293emMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCBA6zkg9ih3JcGYEn/giphy.gif"  />
+  <img align="center" height="350" src="https://cdn.wallpapersafari.com/61/8/xUZn6w.jpg"  />
 
 </p>
 
