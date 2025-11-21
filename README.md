@@ -5,8 +5,11 @@
 <h3 align="center">I'm a Graduate Research Assistant at the University of Florida</h3>
 
 ###
+<div style="text-align: center;">
+  
+  <img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8wOG5tcjg4YWQ1YWRyOTd6YmdmcjdtOWIydmVnZ3BzY293emMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCBA6zkg9ih3JcGYEn/giphy.gif"  />
 
-<img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8wOG5tcjg4YWQ1YWRyOTd6YmdmcjdtOWIydmVnZ3BzY293emMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCBA6zkg9ih3JcGYEn/giphy.gif"  />
+</div>
 
 ###
 
@@ -18,52 +21,44 @@
 
 ###
 
-<br clear="both">
+<div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="170" alt="stats graph"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="170" alt="stats graph"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="170" alt="stats graph" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" height="170" alt="stats graph" media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=catppuccin_latte&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" height="170" alt="stats graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kassSTEM&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" height="170" alt="stats graph" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=radical&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=catppuccin_latte&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?username=kassSTEM&theme=transparent&mode=weekly&border_radius=5" height="170" alt="streak graph" />
-</picture>
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=radical&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://streak-stats.demolab.com?username=kassSTEM&theme=catppuccin_latte&locale=en&mode=weekly&border_radius=5" height="170" alt="streak graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://streak-stats.demolab.com?username=kassSTEM&theme=transparent&mode=weekly&border_radius=5" height="170" alt="streak graph" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=radical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="170" alt="languages graph"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_latte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="170" alt="languages graph"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="170" alt="languages graph" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=radical&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=catppuccin_latte&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kassSTEM&show_icons=true&theme=transparente&layout=compact&langs_count=4&hide_border=false" height="170" alt="languages graph" />
+  </picture>
+
+</div>
 
 ###
 
-<br clear="both">
+<div style="clear:both;">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kassSTEM/kassSTEM/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
 
 ###
