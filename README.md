@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">Want to learn more? Visit my website: https://kassstem.github.io/.</h3>
+<h3 align="center">Want to learn more? Visit my website: https://kassstem.com/.</h3>
 
 ###
 
